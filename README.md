@@ -1,6 +1,8 @@
-# lecture_code
+# オンラインレクチャーで使用しているPythonコード
 
 このPythonコードは，以下のレクチャーで使用しているものです．
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tttamaki/lecture_code.git/master)
 
 ## MachineLearningMath
 

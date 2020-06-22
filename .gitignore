@@ -1,1 +1,5 @@
 MachineLearningMath/.ipynb_checkpoints
+*.jpg
+*.png
+*.wav
+ImageProcessing/.ipynb_checkpoints

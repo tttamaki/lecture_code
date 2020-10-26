@@ -4,3 +4,4 @@ ImageProcessing/*.png
 ImageProcessing/*.wav
 ImageProcessing/.ipynb_checkpoints
 ImageProcessingLab/.ipynb_checkpoints
+*.jpg

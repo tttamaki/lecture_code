@@ -4,3 +4,4 @@
 *.png
 *.wav
 !ImageProcessing/images/*.jpg
+!ImageProcessing/images/*.png

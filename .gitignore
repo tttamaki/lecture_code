@@ -1,2 +1,6 @@
 *.pdf
 .ipynb_checkpoints
+*.jpg
+*.png
+*.wav
+!ImageProcessing/images/*.jpg

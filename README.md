@@ -24,3 +24,7 @@
   - [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github//tttamaki/lecture_code/blob/main/ImageProcessing/5_deep_learning_classification_dog_cat.ipynb) 5_deep_learning_classification_dog_cat.ipynb
   - [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github//tttamaki/lecture_code/blob/main/ImageProcessing/6-imaging-process.ipynb) 6-imaging-process.ipynb
   - [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github//tttamaki/lecture_code/blob/main/ImageProcessing/7-3d-reconst-color.ipynb) 7-3d-reconst-color.ipynb
+  - 注意：colabでエラーが発生する場合には，skimageのバージョンが古い可能性があるので，先頭のセルで以下を実行してください．
+```
+!pip install -U scikit-image
+```

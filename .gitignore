@@ -1,8 +1,2 @@
-MachineLearningMath/.ipynb_checkpoints
-ImageProcessing/*.jpg
-ImageProcessing/*.png
-ImageProcessing/*.wav
-ImageProcessing/.ipynb_checkpoints
-ImageProcessingLab/.ipynb_checkpoints
-*.jpg
 *.pdf
+.ipynb_checkpoints

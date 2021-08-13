@@ -6,13 +6,13 @@
 
 ## [MachineLearningMath](MachineLearningMath)
 
-- 画像処理の基礎：フィルタリング，パターン認識から撮像過程モデルまで 〜Scikit-image, OpenCV, PIL, ScipyなどのPythonモジュールを駆使して画像処理を体験してみよう〜
-- https://www.udemy.com/course/image_processing_python/
+- コンピュータビジョン数学基礎：数式とPythonで学ぶ最適化と最小二乗問題
+  - https://www.udemy.com/course/cvmathbasic/
 
 ## [ImageProcessing](ImageProcessing)
 
-- コンピュータビジョン数学基礎：数式とPythonで学ぶ最適化と最小二乗問題
-  - https://www.udemy.com/course/cvmathbasic/
+- 画像処理の基礎：フィルタリング，パターン認識から撮像過程モデルまで 〜Scikit-image, OpenCV, PIL, ScipyなどのPythonモジュールを駆使して画像処理を体験してみよう〜
+  - https://www.udemy.com/course/image_processing_python/
 - 目次
   - [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github//tttamaki/lecture_code/blob/main/ImageProcessing/1-image-pixel-binary.ipynb) 1-image-pixel-binary.ipynb
   - [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github//tttamaki/lecture_code/blob/main/ImageProcessing/2-movie-transform.ipynb) 2-movie-transform.ipynb

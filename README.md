@@ -12,6 +12,8 @@
   - 線形代数
     - [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github//tttamaki/lecture_code/blob/main/MachineLearningMath/check_mat_vec_mul.ipynb)
   [check_mat_vec_mul.ipynb](MachineLearningMath/check_mat_vec_mul.ipynb)
+    - [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github//tttamaki/lecture_code/blob/main/MachineLearningMath/face_reconstruction.ipynb)
+  [face_reconstruction.ipynb](MachineLearningMath/face_reconstruction.ipynb)
     - [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github//tttamaki/lecture_code/blob/main/MachineLearningMath/numpy_neural_net.ipynb)
   [numpy_neural_net.ipynb](MachineLearningMath/numpy_neural_net.ipynb)
   - 関数と微分
@@ -27,8 +29,6 @@
     - [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github//tttamaki/lecture_code/blob/main/MachineLearningMath/face_reconstruction_via_optimization.ipynb)
   [face_reconstruction_via_optimization.ipynb](MachineLearningMath/face_reconstruction_via_optimization.ipynb)
   - 回帰
-    - [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github//tttamaki/lecture_code/blob/main/MachineLearningMath/face_reconstruction.ipynb)
-  [face_reconstruction.ipynb](MachineLearningMath/face_reconstruction.ipynb)
     - [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github//tttamaki/lecture_code/blob/main/MachineLearningMath/face_reconstruction_via_sparse_regression.ipynb)
   [face_reconstruction_via_sparse_regression.ipynb](MachineLearningMath/face_reconstruction_via_sparse_regression.ipynb)
     - [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github//tttamaki/lecture_code/blob/main/MachineLearningMath/face_inpainting_via_regression.ipynb)

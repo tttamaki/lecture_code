@@ -50,6 +50,8 @@
   [classification_neural_net.ipynb](MachineLearningMath/classification_neural_net.ipynb)
     - [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github//tttamaki/lecture_code/blob/main/MachineLearningMath/classification_neural_net_multiclass.ipynb)
   [classification_neural_net_multiclass.ipynb](MachineLearningMath/classification_neural_net_multiclass.ipynb)
+    - [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github//tttamaki/lecture_code/blob/main/MachineLearningMath/classification_logistic_reg_multiclass.ipynb)
+  [classification_logistic_reg_multiclass.ipynb](MachineLearningMath/classification_logistic_reg_multiclass.ipynb)
 
 
 

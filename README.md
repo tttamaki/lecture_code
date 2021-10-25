@@ -42,8 +42,6 @@
     - [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github//tttamaki/lecture_code/blob/main/MachineLearningMath/face_reconstruction_via_ADMM.ipynb)
   [face_reconstruction_via_ADMM.ipynb](MachineLearningMath/face_reconstruction_via_ADMM.ipynb)
   - 識別
-    - [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github//tttamaki/lecture_code/blob/main/MachineLearningMath/classification_perceptron.ipynb)
-  [classification_perceptron.ipynb](MachineLearningMath/classification_perceptron.ipynb)
     - [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github//tttamaki/lecture_code/blob/main/MachineLearningMath/classification_perceptron_logistic.ipynb)
   [classification_perceptron_logistic.ipynb](MachineLearningMath/classification_perceptron_logistic.ipynb)
     - [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github//tttamaki/lecture_code/blob/main/MachineLearningMath/classification_neural_net.ipynb)

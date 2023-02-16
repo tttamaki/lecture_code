@@ -4,15 +4,15 @@ import sys
 
 def main():
 
-    if len(sys.argv) == 1: # pass the device number
+    if len(sys.argv) == 1:  # pass the device number
         cap = cv2.VideoCapture(0)
     else:
         try:
             cap = cv2.VideoCapture(int(sys.argv[1]))
-        except:
+        except BaseException:
             cap = cv2.VideoCapture(sys.argv[1])
 
-    cap.set(cv2.CAP_PROP_FRAME_WIDTH,  640)
+    cap.set(cv2.CAP_PROP_FRAME_WIDTH, 640)
     cap.set(cv2.CAP_PROP_FRAME_HEIGHT, 480)
 
     while True:
@@ -27,6 +27,7 @@ def main():
 
     cap.release()
     cv2.destroyAllWindows()
+
 
 if __name__ == '__main__':
     main()

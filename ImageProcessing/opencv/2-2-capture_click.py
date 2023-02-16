@@ -10,24 +10,25 @@ def get_click(event, x, y, flags, param):
 
 def main():
 
-    if len(sys.argv) == 1: # pass the device number
+    if len(sys.argv) == 1:  # pass the device number
         cap = cv2.VideoCapture(0)
     else:
         try:
             cap = cv2.VideoCapture(int(sys.argv[1]))
-        except:
+        except BaseException:
             cap = cv2.VideoCapture(sys.argv[1])
 
-    cap.set(cv2.CAP_PROP_FRAME_WIDTH,  640)
+    cap.set(cv2.CAP_PROP_FRAME_WIDTH, 640)
     cap.set(cv2.CAP_PROP_FRAME_HEIGHT, 480)
 
-    cv2.namedWindow('title') # create win with win name
+    cv2.namedWindow('title')  # create win with win name
     cv2.setMouseCallback('title', get_click)
 
     while(True):
 
         ret, frame = cap.read()
-        if not ret: continue
+        if not ret:
+            continue
 
         cv2.imshow('title', frame)  # show in the win
 
